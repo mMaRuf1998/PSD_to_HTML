@@ -1,0 +1,251 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {}
+
+.Cover_Area {
+    background-color: black;
+    color: white;
+    height: 500px;
+}
+
+.mainmenu {
+    float: right;
+    margin: 30px 100px;
+}
+
+.logo {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 30px 100px;
+    color: white;
+}
+
+.mainmenu li,
+.logo {
+    display: block;
+    float: left;
+    padding: 10px;
+    color: white;
+}
+
+.Cover_Center h1,
+p {
+    text-align: center;
+    font-weight: 100;
+    color: #C3C3C3;
+    margin-top: 7px;
+}
+
+.Cover_Center p span {
+    font-weight: 600;
+}
+
+.coverspan {
+    color: #FCAC45;
+    font-weight: 800;
+}
+
+.Cover_Center {
+    padding: 150px 0px;
+}
+
+.Cover_Center img {
+    margin: auto;
+    display: block;
+    margin-top: 150px;
+
+}
+
+.AboutUs_Area {
+    padding: 85px 279px;
+    overflow: hidden;
+}
+
+.AboutUs_Area p,
+button,
+li {
+    color: black;
+    text-align: left;
+}
+
+.Right_side {
+    float: right;
+    width: 50%;
+
+    font-size: 20px;
+}
+
+.Left_side {
+    float: left;
+    width: 40%;
+
+
+
+}
+
+.Left_side img {
+
+    height: 411px;
+
+}
+
+
+.text_big {
+    font-size: 39px;
+    padding: 5px 0px;
+}
+
+.text_big span {
+    font-weight: bold;
+}
+
+.Right_side button {
+    padding: 10px 10px;
+}
+
+.Right_side img {
+    padding: 0px 10px 0px 0px;
+
+}
+
+.Right_side ul {
+    list-style: none;
+    padding: 30px 0px;
+
+}
+
+.Team_Area {
+    background-color: black;
+    text-align: center;
+    padding: 80px 160px;
+    color: white;
+    overflow: hidden;
+}
+
+.Team_Area h1 {
+    padding: 0px;
+}
+
+.profile {
+
+    float: left;
+    padding: 10px;
+    display: block;
+    width: 25%;
+    padding: 80px 20px 20px 20px;
+
+
+}
+
+.profile img {
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+}
+
+.Service_Area {
+    text-align: center;
+    overflow: hidden;
+    padding: 0px 180px;
+}
+
+.Service_Area h1 {
+    padding-top: 50px;
+    color: #222222;
+}
+
+.underLine1 {
+    margin: -38px;
+    color: #FCAC45;
+    scale: 2 4;
+}
+
+.underLine2 {
+    margin: 30px;
+    color: #FCAC45;
+    scale: 2 4;
+}
+
+.para_service {
+    padding: 42px 46px;
+    color: #222222;
+}
+
+.product {
+    width: 25%;
+    float: left;
+    padding: 21px 21px 75px 21px;
+}
+
+.product h1 {
+    border: 2px solid #FCAC45;
+    border-radius: 50%;
+    display: inline-block;
+    padding: 20px 30px;
+
+}
+
+.product p {
+    color: #222222;
+    ;
+}
+
+.Client_Area {
+    background-color: black;
+    text-align: center;
+    overflow: hidden;
+    padding: 60px 370px;
+
+
+}
+
+.Client_Area h1 {
+    color: white;
+}
+
+.loading {
+    margin-top: 50px;
+    scale: 0.6;
+}
+
+.brand_img img {
+    display: block;
+    float: left;
+    padding: 0px 15px;
+    margin-top: 50px;
+    width: 20%;
+}
+
+.Footer_Area {
+    background-color: gray;
+    overflow: hidden;
+    padding: 10px 250px;
+}
+
+
+.Footer_Area p {
+
+
+    float: left;
+    color: black;
+    font-weight: 600;
+
+}
+
+
+.Footer_Area ul li {
+    float: right;
+    list-style: none;
+    padding: 2px;
+    margin: 2px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+.Footer_Area i {
+    margin: 2px 0px 0px 0px;
+}
